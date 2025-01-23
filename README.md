@@ -1,4 +1,4 @@
-![Banner]([https://github.com/Aditya-0009/Aditya-0009/blob/main/Untitled%20design.gif](https://github.com/Aditya-0009/Aditya-0009/blob/main/Untitled%20design%20(1).gif))
+![Banner](https://github.com/Aditya-0009/Aditya-0009/blob/main/Untitled%20design%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">Dedicated to mastering DSA and AI/ML concepts to design innovative, impactful projects.</h3>
