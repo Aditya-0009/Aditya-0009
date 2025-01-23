@@ -5,7 +5,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Aditya Raj" style="transform: rotate(-90deg);"/>
 
-- 🔭 I’m currently working on [a research paper on Brain Tumor Detection currently under review for publication.](https://drive.google.com/file/d/1aAaaYi1BtA4NOk_mNfLXpDGgAYmweTou/view?usp=drive_link)
+- 🔭 I’m currently working on a research paper on [Brain Tumor Detection](https://drive.google.com/file/d/1aAaaYi1BtA4NOk_mNfLXpDGgAYmweTou/view?usp=drive_link) currently under review for publication.
 
 - 🌱 I’m currently learning **Data Structures & Algorithms with also a keen interest in AI/ML.**
 
