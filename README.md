@@ -1,4 +1,4 @@
-![Banner](https://github.com/Aditya-0009/Aditya-0009/blob/main/Untitled%20design.gif))
+![Banner]([https://github.com/Aditya-0009/Aditya-0009/blob/main/Untitled%20design.gif](https://github.com/Aditya-0009/Aditya-0009/blob/main/Untitled%20design%20(1).gif))
 
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">Dedicated to mastering DSA and AI/ML concepts to design innovative, impactful projects.</h3>
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mRxfQLMRitOEn23aE2BuqABbNHQxRJbp/view?usp=drive_link](https://drive.google.com/file/d/1mRxfQLMRitOEn23aE2BuqABbNHQxRJbp/view?usp=drive_link)
 
-- ⚡ Fun fact **I like to play multiplayer FPS games like Valorant.**
+- ⚡ Fun fact : **I like to play multiplayer FPS games like Valorant 🎮.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
