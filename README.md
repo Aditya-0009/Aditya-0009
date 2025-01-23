@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">Dedicated to mastering DSA and AI/ML concepts to design innovative, impactful projects.</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Aditya Raj" style="transform: rotate(-90deg);"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Aditya Raj" style="transform: rotate(-90deg); transform-origin: center;">
+
 
 - 🔭 I’m currently working on [a research paper on Brain Tumor Detection currently under review for publication.](https://drive.google.com/file/d/1aAaaYi1BtA4NOk_mNfLXpDGgAYmweTou/view?usp=drive_link)
 
