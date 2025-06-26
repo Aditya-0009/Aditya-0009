@@ -5,9 +5,12 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Aditya Raj" style="transform: rotate(-90deg);"/>
 
-- 🔭 I’m currently working on a research paper on [Brain Tumor Detection](https://drive.google.com/file/d/1aAaaYi1BtA4NOk_mNfLXpDGgAYmweTou/view?usp=drive_link) currently under review for publication.
+* 🔬 My latest research work on [Brain Tumor Detection](https://ieeexplore.ieee.org/document/10991161/) has been **published in IEEE Xplore**.
 
-- 🌱 I’m currently learning **Data Structures & Algorithms with also a keen interest in AI/ML.**
+* 🌱 I’m currently learning **Data Analytics**, including tools like **SQL, pandas, NumPy, matplotlib, seaborn**, and more.
+
+* 🤖 I’m also exploring **Machine Learning and AI concepts** to build real-world projects and strengthen my foundations.
+
 
 - 📫 How to reach me **technoadityaraj@gmail.com**
 
