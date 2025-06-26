@@ -1,7 +1,8 @@
 ![Banner](https://github.com/Aditya-0009/Aditya-0009/blob/main/Untitled%20design%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">Exploring data in smarter ways 🚀 | On a mission to turn raw numbers into real insights using SQL, Python, and ML 📊🤖</h3>
+<h3 align="center">Exploring data in smarter ways 🚀 | Crafting insights through innovative tools and analytical thinking 📊</h3>
+
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Aditya Raj" style="transform: rotate(-90deg);"/>
 
