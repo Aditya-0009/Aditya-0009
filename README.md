@@ -14,9 +14,7 @@
 
 
 - 📫 How to reach me **technoadityaraj@gmail.com**
-
-- 📄 Know about my experiences [Aditya Resume]([https://drive.google.com/file/d/1mRxfQLMRitOEn23aE2BuqABbNHQxRJbp/view?usp=drive_link](https://drive.google.com/file/d/1nhxh9yRH0V3ajMWTk7bvlIe5LxMLm4vY/view?usp=sharing))
-
+- 📄 Know about my experiences: [Aditya Resume](https://drive.google.com/file/d/1nhxh9yRH0V3ajMWTk7bvlIe5LxMLm4vY/view?usp=sharing)
 - ⚡ Fun fact : **I like to play multiplayer FPS games like Valorant 🎮.**
 
 <h3 align="left">Connect with me:</h3>
