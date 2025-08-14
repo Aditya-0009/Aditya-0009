@@ -14,7 +14,7 @@
 
 
 - 📫 How to reach me **aditya.work0902@gmail.com**
-- 📄 Know about my experiences: [Aditya Resume](https://drive.google.com/file/d/10JbzHuS57_mzggcCb2VsTtyVVUDuGKvt/view?usp=sharing)
+- 📄 Know about my experiences: [Aditya Resume](https://drive.google.com/file/d/1Gdi0rIrauUE-G0efPDrHeKnLJ-RwsO9h/view?usp=sharing)
 - ⚡ Fun fact : **I like to play multiplayer FPS games like Valorant 🎮.**
 
 <h3 align="left">Connect with me:</h3>
